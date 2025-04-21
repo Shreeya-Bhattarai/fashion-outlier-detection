@@ -1,4 +1,4 @@
-# Outlier Detection on Fashion-MNIST using PCA, K-Means & t-SNE
+# Fashion Outlier Detection: Identifying Anomalous Purchase Behavior in E-Commerce Data
 
 ## Objective
 This project was done as part of my advanced machine learning course. The goal of this project is to apply unsupervised machine learning techniques — PCA, K-Means Clustering, and t-SNE — to detect outliers in a modified Fashion-MNIST dataset. The aim is to understand how each model identifies unusual patterns and compare their performance in a high-dimensional image dataset.
