@@ -56,6 +56,6 @@ Each method provides a different lens for anomaly detection—PCA for compressio
 - Dimensionality reduction (PCA) helps compress image data with minimal loss, enabling faster ML pipelines.
 - Clustering techniques like K-Means support product tagging, grouping, and recommendation filtering.
 
-## ✅ Conclusion
+## Conclusion
 
 This study demonstrated that combining different unsupervised outlier detection techniques (PCA, K-means, and t-SNE) can effectively identify and analyze anomalies in image data. The findings suggest that applying dimensionality reduction techniques and clustering methods can significantly improve the detection of outliers in image classification tasks, which is crucial for improving model accuracy and robustness in real-world applications.
